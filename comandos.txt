@@ -1,0 +1,10 @@
+                Phyton
+
+
+
+ls                   exibe os ficheiros do diretório//
+mk                   dir nome//
+pwd                  exibe o diretorio atual//
+cd                   acessa um diretório//
+git pull             atualiza diretorio//
+ctrl + c             sai de um comando//          
